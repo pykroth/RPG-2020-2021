@@ -1,0 +1,23 @@
+FireExplosion_1 is setup for about a radius 2.0 explosion effect.
+
+Particle Systems on each GameObject:
+
+FireExplosion_1: Wavey flame.
+	Start Size: 4 (set to radius*2)
+
+Shock: Horizontal Sparkle, very fast to disappear
+	Start Size: 2 (radius) to 3 (radius*1.5f)
+
+Cloud: Orange explosion circles, big part of the explosion effect
+	Start Size: 3 (radius*1.5f) to 4 (radius*2.0f)
+	You can play around with the start size more on this.
+
+Cloud_2: Red smoke circle, big part of the explosion effect
+	Start Size: 4 (radius*2.0f) to 5 (radius*2.5f)
+	Should be slightly larger than the first Cloud because it's a softer effect.
+
+Particle: Small Sparks from center
+	Start Size: is a curve, 0.05 to 0.20.  Wouldn't change this very much.
+	Max Particles: 20 can increase for bigger aoes
+	Emission: Bursts Count: 20 increase if you increase max particles
+	Veloicty over Lifetime: Speed Modifier: 1.5 (about radius*.75f)

@@ -1,0 +1,1616 @@
+fileFormatVersion: 2
+guid: 71bb9f0977afc6240aca32d92b4badb5
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -3250582965368426209
+    second: Magic_block_RedBright1
+  - first:
+      213: 6219665010395118944
+    second: Magic_block_RedBright2
+  - first:
+      213: 5601541226558779058
+    second: Magic_block_RedBright3
+  - first:
+      213: 8418863704894196855
+    second: Magic_block_3
+  - first:
+      213: -4599416648602786646
+    second: Magic_block_4
+  - first:
+      213: 8440772691509381358
+    second: Magic_block_5
+  - first:
+      213: -1833504407118455467
+    second: Magic_block_RedDark1
+  - first:
+      213: 1760390830140729413
+    second: Magic_block_RedDark2
+  - first:
+      213: -4552482509442781564
+    second: Magic_block_RedDark3
+  - first:
+      213: 4909680809666751464
+    second: Magic_block_WhiteBright1
+  - first:
+      213: -6637671334319728203
+    second: Magic_block_WhiteBright2
+  - first:
+      213: -7090305597272903536
+    second: Magic_block_WhiteBright3
+  - first:
+      213: 8052909599202539095
+    second: Magic_block_OrangeBright1
+  - first:
+      213: -7390432295362916469
+    second: Magic_block_OrangeBright2
+  - first:
+      213: -8276624306093458162
+    second: Magic_block_OrangeBright3
+  - first:
+      213: -2225953371132529365
+    second: Magic_block_15
+  - first:
+      213: 2728022047876509714
+    second: Magic_block_16
+  - first:
+      213: 7131584983478370277
+    second: Magic_block_17
+  - first:
+      213: -4056609746767999458
+    second: Magic_block_OrangeDark1
+  - first:
+      213: -3333061146590893596
+    second: Magic_block_OrangeDark2
+  - first:
+      213: -1739627237554399284
+    second: Magic_block_OrangeDark3
+  - first:
+      213: -9196902405507901756
+    second: Magic_block_21
+  - first:
+      213: -3757413965158707219
+    second: Magic_block_22
+  - first:
+      213: 8071551007762011838
+    second: Magic_block_23
+  - first:
+      213: 2921877524462748822
+    second: Magic_block_YellowBright1
+  - first:
+      213: 8316373089820449075
+    second: Magic_block_YellowBright2
+  - first:
+      213: -649107836060906123
+    second: Magic_block_YellowBright3
+  - first:
+      213: 236043868679231954
+    second: Magic_block_27
+  - first:
+      213: -7920825416232255527
+    second: Magic_block_28
+  - first:
+      213: 2559267658279012473
+    second: Magic_block_29
+  - first:
+      213: -3257642442447472059
+    second: Magic_block_YellowDark1
+  - first:
+      213: 539702553273322520
+    second: Magic_block_YellowDark2
+  - first:
+      213: 6346311627187280194
+    second: Magic_block_YellowDark3
+  - first:
+      213: 1586670083374361048
+    second: Magic_block_WhiteDark1
+  - first:
+      213: -4329307716232634083
+    second: Magic_block_WhiteDark2
+  - first:
+      213: -5113015163385419100
+    second: Magic_block_WhiteDark3
+  - first:
+      213: -7583203920702443104
+    second: Magic_block_GreenBright1
+  - first:
+      213: 3288529252322423663
+    second: Magic_block_GreenBright2
+  - first:
+      213: 379370115053811467
+    second: Magic_block_GreenBright3
+  - first:
+      213: -7812531012996327877
+    second: Magic_block_39
+  - first:
+      213: -6122542030095369314
+    second: Magic_block_40
+  - first:
+      213: 3566774195052272244
+    second: Magic_block_41
+  - first:
+      213: -809564266720483676
+    second: Magic_block_GreenDark1
+  - first:
+      213: -7360383280836385453
+    second: Magic_block_GreenDark2
+  - first:
+      213: 7901641031122075942
+    second: Magic_block_GreenDark3
+  - first:
+      213: 1599313630657855020
+    second: Magic_block_Outline1
+  - first:
+      213: 4340023478466452828
+    second: Magic_block_Outline2
+  - first:
+      213: 9113706250781486103
+    second: Magic_block_Outline3
+  - first:
+      213: -3105593296684888261
+    second: Magic_block_TealBright1
+  - first:
+      213: 3611311048558643850
+    second: Magic_block_TealBright2
+  - first:
+      213: -7616705067190398537
+    second: Magic_block_TealBright3
+  - first:
+      213: 3842228388511631680
+    second: Magic_block_51
+  - first:
+      213: -8827387147216641352
+    second: Magic_block_52
+  - first:
+      213: -5940028905346229131
+    second: Magic_block_53
+  - first:
+      213: -511844844319893563
+    second: Magic_block_TealDark1
+  - first:
+      213: -3282135290156286959
+    second: Magic_block_TealDark2
+  - first:
+      213: -1083991381600843347
+    second: Magic_block_TealDark3
+  - first:
+      213: -4566341788261724249
+    second: Magic_block_BlueBright1
+  - first:
+      213: 8897239296306330975
+    second: Magic_block_BlueBright2
+  - first:
+      213: -2599058470431562246
+    second: Magic_block_BlueBright3
+  - first:
+      213: -2231394838360116529
+    second: Magic_block_60
+  - first:
+      213: 1617517394686922719
+    second: Magic_block_61
+  - first:
+      213: -5777751715255201927
+    second: Magic_block_62
+  - first:
+      213: -3226851171282884775
+    second: Magic_block_BlueDark1
+  - first:
+      213: 316658206732174405
+    second: Magic_block_BlueDark2
+  - first:
+      213: 5384238903516491397
+    second: Magic_block_BlueDark3
+  - first:
+      213: -5776032128604090886
+    second: Magic_block_PurpleBright1
+  - first:
+      213: -8166283639056238624
+    second: Magic_block_PurpleBright2
+  - first:
+      213: -3252964814026127052
+    second: Magic_block_PurpleBright3
+  - first:
+      213: -1833424070367061257
+    second: Magic_block_69
+  - first:
+      213: -8918870810417961826
+    second: Magic_block_70
+  - first:
+      213: 8589726101146215904
+    second: Magic_block_71
+  - first:
+      213: -1277975174023375163
+    second: Magic_block_PurpleDark1
+  - first:
+      213: 7951725641242944225
+    second: Magic_block_PurpleDark2
+  - first:
+      213: -5299738414519877268
+    second: Magic_block_PurpleDark3
+  - first:
+      213: -1977788504812994293
+    second: Magic_block_PinkBright1
+  - first:
+      213: -8643879314561770831
+    second: Magic_block_PinkBright2
+  - first:
+      213: -1777345809292424496
+    second: Magic_block_PinkBright3
+  - first:
+      213: -4597888918028434983
+    second: Magic_block_78
+  - first:
+      213: 4535023329167746742
+    second: Magic_block_79
+  - first:
+      213: -1367425572668178624
+    second: Magic_block_80
+  - first:
+      213: 257868724612773148
+    second: Magic_block_PinkDark1
+  - first:
+      213: 9025278124097930324
+    second: Magic_block_PinkDark2
+  - first:
+      213: -1771148559186768139
+    second: Magic_block_PinkDark3
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMasterTextureLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 2
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 32
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Magic_block_RedBright1
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 224
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f11774ce30c93e2d0800000000000000
+      internalID: -3250582965368426209
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Magic_block_RedBright2
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 224
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 06df68eaf50b05650800000000000000
+      internalID: 6219665010395118944
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Magic_block_RedBright3
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 224
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2beedbb311cacbd40800000000000000
+      internalID: 5601541226558779058
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Magic_block_RedDark1
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 224
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 55d579fb4751e86e0800000000000000
+      internalID: -1833504407118455467
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Magic_block_RedDark2
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 224
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 548a460122a2e6810800000000000000
+      internalID: 1760390830140729413
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Magic_block_RedDark3
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 224
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 48eeb7a174552d0c0800000000000000
+      internalID: -4552482509442781564
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Magic_block_WhiteBright1
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 224
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8eb2dbc0fa0b22440800000000000000
+      internalID: 4909680809666751464
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Magic_block_WhiteBright2
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 224
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5b9541ed61142e3a0800000000000000
+      internalID: -6637671334319728203
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Magic_block_WhiteBright3
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 224
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 090b59510ac2a9d90800000000000000
+      internalID: -7090305597272903536
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Magic_block_OrangeBright1
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 192
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 756fcc44d9ea1cf60800000000000000
+      internalID: 8052909599202539095
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Magic_block_OrangeBright2
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 192
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b8f815acbf8ef6990800000000000000
+      internalID: -7390432295362916469
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Magic_block_OrangeBright3
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 192
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e0d7fe78b06832d80800000000000000
+      internalID: -8276624306093458162
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Magic_block_OrangeDark1
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 192
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e1e818b9de604b7c0800000000000000
+      internalID: -4056609746767999458
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Magic_block_OrangeDark2
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 192
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4e92bc6eb869eb1d0800000000000000
+      internalID: -3333061146590893596
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Magic_block_OrangeDark3
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 192
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cc7d9ff8e3a9bd7e0800000000000000
+      internalID: -1739627237554399284
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Magic_block_YellowBright1
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 160
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 694ccc2b0289c8820800000000000000
+      internalID: 2921877524462748822
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Magic_block_YellowBright2
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 160
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3399d5e5341b96370800000000000000
+      internalID: 8316373089820449075
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Magic_block_YellowBright3
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 160
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 57dcaaabcd7edf6f0800000000000000
+      internalID: -649107836060906123
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Magic_block_YellowDark1
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 160
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 54abea455778ac2d0800000000000000
+      internalID: -3257642442447472059
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Magic_block_YellowDark2
+      rect:
+        serializedVersion: 2
+        x: 225
+        y: 160
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 81c4a3cdc986d7700800000000000000
+      internalID: 539702553273322520
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Magic_block_YellowDark3
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 160
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 249dd6cfcc0a21850800000000000000
+      internalID: 6346311627187280194
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Magic_block_WhiteDark1
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 160
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8d9a447c80cf40610800000000000000
+      internalID: 1586670083374361048
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Magic_block_WhiteDark2
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 160
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d11a89ad1953be3c0800000000000000
+      internalID: -4329307716232634083
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Magic_block_WhiteDark3
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 160
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4aae93f7ccbea09b0800000000000000
+      internalID: -5113015163385419100
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Magic_block_GreenBright1
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 128
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0a17e2f263c03c690800000000000000
+      internalID: -7583203920702443104
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Magic_block_GreenBright2
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 128
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f63b82e7ee333ad20800000000000000
+      internalID: 3288529252322423663
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Magic_block_GreenBright3
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 128
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b077e221c1bc34500800000000000000
+      internalID: 379370115053811467
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Magic_block_GreenDark1
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 128
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4a6a643b699d3c4f0800000000000000
+      internalID: -809564266720483676
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Magic_block_GreenDark2
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 128
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 355e50f276aaad990800000000000000
+      internalID: -7360383280836385453
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Magic_block_GreenDark3
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 128
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 621cea237a448ad60800000000000000
+      internalID: 7901641031122075942
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Magic_block_Outline1
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 128
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c2e3dc70647e13610800000000000000
+      internalID: 1599313630657855020
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Magic_block_Outline2
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 128
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c5d19d6fb5cda3c30800000000000000
+      internalID: 4340023478466452828
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Magic_block_Outline3
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 128
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 71c66117c836a7e70800000000000000
+      internalID: 9113706250781486103
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Magic_block_TealBright1
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 96
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b3f434ec957b6e4d0800000000000000
+      internalID: -3105593296684888261
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Magic_block_TealBright2
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 96
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a8a08ced344fd1230800000000000000
+      internalID: 3611311048558643850
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Magic_block_TealBright3
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 96
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7b1d23fa8170c4690800000000000000
+      internalID: -7616705067190398537
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Magic_block_TealDark1
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 96
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5c7923273df85e8f0800000000000000
+      internalID: -511844844319893563
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Magic_block_TealDark2
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 96
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 11cf575d7538372d0800000000000000
+      internalID: -3282135290156286959
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Magic_block_TealDark3
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 96
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: da9c818e493e4f0f0800000000000000
+      internalID: -1083991381600843347
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Magic_block_BlueBright1
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 64
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7af43ab465811a0c0800000000000000
+      internalID: -4566341788261724249
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Magic_block_BlueBright2
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 64
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f5d3cf91008597b70800000000000000
+      internalID: 8897239296306330975
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Magic_block_BlueBright3
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 64
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: af5e47f671a4eebd0800000000000000
+      internalID: -2599058470431562246
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Magic_block_BlueDark1
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 64
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 95761a0d4fbe733d0800000000000000
+      internalID: -3226851171282884775
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Magic_block_BlueDark2
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 64
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 544cb7716fef46400800000000000000
+      internalID: 316658206732174405
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Magic_block_BlueDark3
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 64
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 58e60fd71c8a8ba40800000000000000
+      internalID: 5384238903516491397
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Magic_block_PurpleBright1
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 32
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: afd4f4bb16967dfa0800000000000000
+      internalID: -5776032128604090886
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Magic_block_PurpleBright2
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 32
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0e7f7fe0c488bae80800000000000000
+      internalID: -8166283639056238624
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Magic_block_PurpleBright3
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 32
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 439c0219cb52bd2d0800000000000000
+      internalID: -3252964814026127052
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Magic_block_PurpleDark1
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 32
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5c69198a958b34ee0800000000000000
+      internalID: -1277975174023375163
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Magic_block_PurpleDark2
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 32
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1e2a6a537543a5e60800000000000000
+      internalID: 7951725641242944225
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Magic_block_PurpleDark3
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 32
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c610d00cdfb8376b0800000000000000
+      internalID: -5299738414519877268
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Magic_block_PinkBright1
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b0145c965db7d84e0800000000000000
+      internalID: -1977788504812994293
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Magic_block_PinkBright2
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 0
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1bad2368f85ca0880800000000000000
+      internalID: -8643879314561770831
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Magic_block_PinkBright3
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 0
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0da881a37699557e0800000000000000
+      internalID: -1777345809292424496
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Magic_block_PinkDark1
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 0
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c153a312d32249300800000000000000
+      internalID: 257868724612773148
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Magic_block_PinkDark2
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 0
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 45406f9c2aa304d70800000000000000
+      internalID: 9025278124097930324
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Magic_block_PinkDark3
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 0
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5fe4a35f4cd9b67e0800000000000000
+      internalID: -1771148559186768139
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      Magic_block_BlueBright1: -4566341788261724249
+      Magic_block_RedDark3: -4552482509442781564
+      Magic_block_BlueBright3: -2599058470431562246
+      Magic_block_TealDark2: -3282135290156286959
+      Magic_block_PinkDark1: 257868724612773148
+      Magic_block_RedDark2: 1760390830140729413
+      Magic_block_OrangeDark1: -4056609746767999458
+      Magic_block_BlueDark3: 5384238903516491397
+      Magic_block_PurpleDark1: -1277975174023375163
+      Magic_block_PinkBright1: -1977788504812994293
+      Magic_block_YellowDark2: 539702553273322520
+      Magic_block_PinkDark3: -1771148559186768139
+      Magic_block_PurpleBright2: -8166283639056238624
+      Magic_block_BlueDark2: 316658206732174405
+      Magic_block_YellowBright3: -649107836060906123
+      Magic_block_TealBright1: -3105593296684888261
+      Magic_block_TealDark1: -511844844319893563
+      Magic_block_OrangeBright1: 8052909599202539095
+      Magic_block_RedBright3: 5601541226558779058
+      Magic_block_Outline3: 9113706250781486103
+      Magic_block_RedBright1: -3250582965368426209
+      Magic_block_WhiteBright1: 4909680809666751464
+      Magic_block_YellowBright1: 2921877524462748822
+      Magic_block_OrangeBright2: -7390432295362916469
+      Magic_block_YellowBright2: 8316373089820449075
+      Magic_block_YellowDark3: 6346311627187280194
+      Magic_block_PurpleDark2: 7951725641242944225
+      Magic_block_TealBright3: -7616705067190398537
+      Magic_block_Outline2: 4340023478466452828
+      Magic_block_OrangeDark2: -3333061146590893596
+      Magic_block_TealDark3: -1083991381600843347
+      Magic_block_PinkBright3: -1777345809292424496
+      Magic_block_PinkDark2: 9025278124097930324
+      Magic_block_GreenDark1: -809564266720483676
+      Magic_block_OrangeBright3: -8276624306093458162
+      Magic_block_WhiteBright2: -6637671334319728203
+      Magic_block_YellowDark1: -3257642442447472059
+      Magic_block_TealBright2: 3611311048558643850
+      Magic_block_WhiteDark2: -4329307716232634083
+      Magic_block_Outline1: 1599313630657855020
+      Magic_block_GreenBright3: 379370115053811467
+      Magic_block_BlueDark1: -3226851171282884775
+      Magic_block_OrangeDark3: -1739627237554399284
+      Magic_block_GreenBright1: -7583203920702443104
+      Magic_block_BlueBright2: 8897239296306330975
+      Magic_block_GreenDark2: -7360383280836385453
+      Magic_block_GreenDark3: 7901641031122075942
+      Magic_block_PinkBright2: -8643879314561770831
+      Magic_block_WhiteDark1: 1586670083374361048
+      Magic_block_PurpleBright3: -3252964814026127052
+      Magic_block_RedBright2: 6219665010395118944
+      Magic_block_RedDark1: -1833504407118455467
+      Magic_block_GreenBright2: 3288529252322423663
+      Magic_block_PurpleBright1: -5776032128604090886
+      Magic_block_PurpleDark3: -5299738414519877268
+      Magic_block_WhiteBright3: -7090305597272903536
+      Magic_block_WhiteDark3: -5113015163385419100
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
